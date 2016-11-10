@@ -11,6 +11,6 @@
   	"body-parser":"*",
   	"mongoose":"*"
   },
-  "author": "AG",
+  "author": "Akhilesh Goud",
   "license": "MIT"
 }
